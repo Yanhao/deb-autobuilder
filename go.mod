@@ -1,4 +1,4 @@
-module deb-go
+module github.com/Yanhao/deb-autobuilder
 
 require (
 	github.com/BurntSushi/toml v0.3.0

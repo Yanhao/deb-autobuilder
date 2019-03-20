@@ -1,4 +1,4 @@
-package main // import "deb-go"
+package main
 
 import (
 	"fmt"
