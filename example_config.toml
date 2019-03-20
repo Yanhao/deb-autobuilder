@@ -1,0 +1,5 @@
+# LogFile = "log"
+IncomeDir = "dir"
+TimeInterval = 5
+DB = "db.db"
+
